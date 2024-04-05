@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-01T08:27:26 IST" name="Suite" finished-at="2024-04-01T08:28:43 IST" duration-ms="76625">
+    <groups>
+      <group name="RegressionSuite">
+        <method signature="ScriptAdd_Test.service_Contract_Test()[pri:0, instance:com.testScript.java.ScriptAdd_Test@298a5e20]" name="service_Contract_Test" class="com.testScript.java.ScriptAdd_Test"/>
+      </group> <!-- RegressionSuite -->
+    </groups>
+    <test started-at="2024-04-01T08:27:26 IST" name="Test" finished-at="2024-04-01T08:28:43 IST" duration-ms="76625">
+      <class name="com.testScript.java.ScriptDel_Test">
+        <test-method is-config="true" signature="BrowserLaunch()[pri:0, instance:com.testScript.java.ScriptDel_Test@1ed4ae0f]" started-at="2024-04-01T08:27:59 IST" name="BrowserLaunch" finished-at="2024-04-01T08:28:01 IST" duration-ms="1716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method is-config="true" signature="logIntoApplication()[pri:0, instance:com.testScript.java.ScriptDel_Test@1ed4ae0f]" started-at="2024-04-01T08:28:01 IST" name="logIntoApplication" finished-at="2024-04-01T08:28:07 IST" duration-ms="5698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIntoApplication -->
+        <test-method signature="service_Contract_Test()[pri:0, instance:com.testScript.java.ScriptDel_Test@1ed4ae0f]" started-at="2024-04-01T08:28:07 IST" name="service_Contract_Test" finished-at="2024-04-01T08:28:40 IST" duration-ms="32932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- service_Contract_Test -->
+        <test-method is-config="true" signature="signOut()[pri:0, instance:com.testScript.java.ScriptDel_Test@1ed4ae0f]" started-at="2024-04-01T08:28:40 IST" name="signOut" finished-at="2024-04-01T08:28:42 IST" duration-ms="2322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method is-config="true" signature="BrowserClose()[pri:0, instance:com.testScript.java.ScriptDel_Test@1ed4ae0f]" started-at="2024-04-01T08:28:42 IST" name="BrowserClose" finished-at="2024-04-01T08:28:43 IST" duration-ms="391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+      </class> <!-- com.testScript.java.ScriptDel_Test -->
+      <class name="com.testScript.java.ScriptAdd_Test">
+        <test-method is-config="true" signature="DBconfig()[pri:0, instance:com.testScript.java.ScriptAdd_Test@298a5e20]" started-at="2024-04-01T08:27:26 IST" name="DBconfig" finished-at="2024-04-01T08:27:26 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DBconfig -->
+        <test-method is-config="true" signature="BrowserLaunch()[pri:0, instance:com.testScript.java.ScriptAdd_Test@298a5e20]" started-at="2024-04-01T08:27:26 IST" name="BrowserLaunch" finished-at="2024-04-01T08:27:31 IST" duration-ms="4240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method is-config="true" signature="logIntoApplication()[pri:0, instance:com.testScript.java.ScriptAdd_Test@298a5e20]" started-at="2024-04-01T08:27:31 IST" name="logIntoApplication" finished-at="2024-04-01T08:27:37 IST" duration-ms="6133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIntoApplication -->
+        <test-method signature="service_Contract_Test()[pri:0, instance:com.testScript.java.ScriptAdd_Test@298a5e20]" started-at="2024-04-01T08:27:37 IST" name="service_Contract_Test" finished-at="2024-04-01T08:27:56 IST" duration-ms="19237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- service_Contract_Test -->
+        <test-method is-config="true" signature="signOut()[pri:0, instance:com.testScript.java.ScriptAdd_Test@298a5e20]" started-at="2024-04-01T08:27:56 IST" name="signOut" finished-at="2024-04-01T08:27:59 IST" duration-ms="2508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method is-config="true" signature="BrowserClose()[pri:0, instance:com.testScript.java.ScriptAdd_Test@298a5e20]" started-at="2024-04-01T08:27:59 IST" name="BrowserClose" finished-at="2024-04-01T08:27:59 IST" duration-ms="402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+        <test-method is-config="true" signature="DBclose()[pri:0, instance:com.testScript.java.ScriptAdd_Test@298a5e20]" started-at="2024-04-01T08:28:43 IST" name="DBclose" finished-at="2024-04-01T08:28:43 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DBclose -->
+      </class> <!-- com.testScript.java.ScriptAdd_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
